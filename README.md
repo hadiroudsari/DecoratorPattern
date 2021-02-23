@@ -1,3 +1,3 @@
 # DecoratorPattern
 
-this is a educational project for student to learn decorator design pattern better.
+this is a educational project for myself when I was learning decorator design pattern.
